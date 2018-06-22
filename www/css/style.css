@@ -1,1 +1,9 @@
 /* Empty. Add your own CSS if you like */
+
+.app-button {
+    display: block;
+    background-color: red;
+    color: white;
+    width: 90%;
+    margin: auto;
+}
